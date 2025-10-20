@@ -48,3 +48,8 @@ if (b == 0) {
 
 }
 
+## Learning References
+
+<img width="932" height="433" alt="Screenshot 2025-10-20 210050" src="https://github.com/user-attachments/assets/3c7e17b6-57e5-45aa-ab14-9e268b0d3ff7" />
+
+
